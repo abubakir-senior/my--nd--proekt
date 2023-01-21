@@ -1,0 +1,39 @@
+.blok{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(102, 17, 177);
+    color: rgb(102, 17, 177);
+    transition: all 1s;
+}
+.blok:hover{
+    width: 300px;
+    transition: all 2s;
+    background-color: aqua;
+    color: red;
+}
+.blok2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: blue;
+    transition: 1s;
+}
+.blok2:hover{
+    width: 300px;
+    background-color: yellow;
+    color: green;
+    transition: all 2s;
+}
+.blok3{
+    width: 200px;
+    height: 200px;
+    background-color:yellowgreen ;
+    color: yellowgreen;
+    transition: all 1s;
+}
+.blok3:hover{
+    width: 300px;
+    background-color: orange;
+    color: blue;
+    transition: all 2s;
+}
